@@ -4,7 +4,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 B.Tech Undergraduate  
+- 🎓 B.Tech Undergraduate (Muthayammal Engineering College)
 - 💡 Interested in **AI, Web Development, UX Design & Problem Solving**  
 - 🔥 Actively solving **LeetCode** problems  
 - 📚 Currently doing **Google UX Design Professional Certificate**  
