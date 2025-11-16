@@ -30,11 +30,13 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prathip&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Prathip2826&show_icons=true&theme=tokyonight" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prathip&theme=tokyonight" alt="streak" />
+  <img src="https://streak-stats.demolab.com?user=Prathip2826&theme=tokyonight" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Prathip2826&layout=compact&theme=tokyonight" />
 </p>
 
 ---
