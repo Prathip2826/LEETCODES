@@ -1,64 +1,107 @@
-<h1 align="center">Hi 👋, I'm M. Prathip</h1>
-<h3 align="center">B.Tech Student | Learning Web Development, DSA & UX Design</h3>
+# 👋 Hi, I'm **Prathip M**!
+### 🚀 Aspiring Software Engineer | Competitive Programmer | B.Tech Student at **Muthayammal Engineering College**
 
 ---
 
-### 👨‍💻 About Me
-- 🎓 B.Tech Undergraduate (Muthayammal Engineering College)
-- 💡 Interested in **AI, Web Development, UX Design & Problem Solving**  
-- 🔥 Actively solving **LeetCode** problems  
-- 📚 Currently doing **Google UX Design Professional Certificate**  
-- 📍 From **Tamil Nadu, India**
+<div align="center">
+
+## ⌨️ Animated Introduction
+<img src="https://readme-typing-svg.herokuapp.com?size=24&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Prathip+M;B.Tech+Student;Aspiring+Software+Engineer;Competitive+Programmer;Java+%7C+DSA+Enthusiast;Welcome+to+my+GitHub+Profile!" />
+
+</div>
 
 ---
 
-### 🚀 Goals for 2025
-- Build **10 real-world projects**
-- Strengthen **DSA (no DP preference 😄)**
-- Complete **Google UX Design specialization**
-- Create a solid **portfolio website**
+## 🌟 About Me
+- 🎓 Pursuing **B.Tech** in Engineering
+- 💻 Passionate about **Java, DSA, Web Development, UI/UX**
+- 🔥 Solved 500+ DSA problems across platforms
+- 🌱 Currently learning **Advanced Java + System Design Basics**
+- 🎯 Goal: Become a **Software Engineer at a top tech company**
 
 ---
 
-### 🛠 Skills & Tools
-**Languages:** Java, Python, C++, JavaScript  
-**Frontend:** HTML, CSS, JS  
-**Database:** MySQL  
-**Tools:** Git, GitHub, Figma  
+## 🔗 Coding Profiles
+### 📘 Competitive Programming / DSA
+- 🟧 **LeetCode:** [Prathip_2628](https://leetcode.com/Prathip_2628)
+- 🟦 **CodeChef:** [prathip_2826](https://www.codechef.com/users/prathip_2826)
+- 🟢 **GeeksforGeeks:** [prathipro4el](https://auth.geeksforgeeks.org/user/prathipro4el)
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Prathip2826&show_icons=true&theme=tokyonight" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Prathip2826&theme=tokyonight" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Prathip2826&layout=compact&theme=tokyonight" />
-</p>
+## 🛡 Skills & Technologies (With Badges)
+### 💻 Languages
+![Java](https://img.shields.io/badge/Java-orange?logo=java)
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript)
 
-
----
-
-### 📫 How to reach me
-- **Email:** prathipraja777@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/prathip-raja-a9a179330/
+### 🧰 Tools
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?logo=visual-studio-code)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-121013?logo=github)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql)
 
 ---
 
-### ❤️ Interests
-- Anime  
-- UI/UX Designing  
-- Coding challenges  
-- Tech videos  
+## 📊 GitHub Stats
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Prathip2826&show_icons=true&theme=tokyonight" height="160px" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Prathip2826&theme=tokyonight" height="160px" />
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathip2826&layout=compact&theme=tokyonight" height="160px" />
+
+</div>
 
 ---
 
-### 🔥 Fun Fact  
-I prefer **LeetCode problems without dynamic programming** 😄
+## 🧩 LeetCode Stats (Dynamic)
+<div align="center">
+<img src="https://leetcard.jacoblin.cool/Prathip_2628?theme=dark&font=Roboto&ext=heatmap" />
+</div>
 
 ---
 
-⭐ *Thanks for visiting my profile! Feel free to check out my repositories and connect with me.*  
+## 🏆 Badges & Achievements
+- ✔️ Solved 300+ LeetCode problems
+- ✔️ Consistent competitive programmer
+- ✔️ Strong Java & DSA foundations
+- ✔️ Git & GitHub version control proficient
+
+---
+
+## 📂 Top Projects
+### 🔥 Highlighted Repositories
+- ⭐ **LeetCode Java Solutions** — All solved problems in clean Java
+- ⭐ **DSA Practice Repo** — Notes + Problems + Solutions
+- ⭐ **Mini Web Projects** — HTML/CSS/JS based creative projects
+
+*(Add your repo links once uploaded!)*
+
+---
+
+## 🎨 Developer GIF
+<div align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px" />
+</div>
+
+---
+
+## 🌐 Social Media Badges
+[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github)](https://github.com/Prathip2826)
+[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prathipraja777@gmail.com)
+
+---
+
+## 👁️ Visitor Count
+<div align="center">
+<img src="https://profile-counter.glitch.me/Prathip2826/count.svg" />
+</div>
+
+---
+
+⭐ *Thanks for visiting! Feel free to star ⭐ my repositories and connect with me!*
+
