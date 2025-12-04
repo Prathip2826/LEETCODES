@@ -1,120 +1,128 @@
-# 🔥 Jujutsu Kaisen – Themed GitHub Profile README  
-### ⚔️ *“Throughout heaven and earth… I alone am the honored one.”* – Gojo Satoru
+<!-- 🩸 SUKUNA – THE KING OF CURSES THEME  -->
 
 <div align="center">
 
-<img src="https://i.imgur.com/DhltVCh.gif" width="500"/>
+# 👹 **RYOMEN SUKUNA — THE KING OF CURSES**
+### *“Know your place, fool.”*
 
-## ✨ Typing Intro  
-<img src="https://readme-typing-svg.herokuapp.com?size=25&color=00F6FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Prathip+M;Aspiring+Software+Engineer;Competitive+Programmer;Java+%7C+DSA+Enthusiast;Welcome+to+my+Domain+Expansion!" />
+<img src="https://i.imgur.com/DhltVCh.gif" width="500">
+
+---
+
+## 🔥 **Cursed Introduction**
+<img src="https://readme-typing-svg.herokuapp.com?size=28&color=FF0000&center=true&vCenter=true&width=700&lines=I'm+Prathip+M;Aspiring+Software+Engineer;Competitive+Programmer;Java+%7C+DSA+Enthusiast;Bow+Before+The+King+of+Curses!">
 
 </div>
 
 ---
 
-# 🌀 About Me – Domain Expansion: Developer’s Dimension  
-- 🎓 **B.Tech Student**, Muthayammal Engineering College  
-- 💻 Passionate about **Java, DSA, Web Dev**  
-- ⚡ Solved **500+ DSA Problems**  
-- 🌱 Learning **Advanced Java + System Design**  
-- 🎯 Goal: *Become a top-level Software Engineer*  
-- 🔥 Anime Lover — especially **Jujutsu Kaisen**  
+# 🩸 **About Me**
+- 🎓 B.Tech Student — Muthayammal Engineering College  
+- 👹 Cursed Techniques: Java, DSA, Web Dev  
+- 🧠 500+ DSA Problems Crushed  
+- ⚔️ Training in Advanced Java + System Design  
+- 🎯 Goal: Become a top-tier Software Engineer  
+- 🔥 Anime Lover — especially Jujutsu Kaisen  
 
 ---
 
-# 🔗 Coding Profiles – Sorcerer Rankings  
-- 🟧 **LeetCode:** [Prathip_2628](https://leetcode.com/Prathip_2628)  
-- 🟦 **CodeChef:** [prathip_2826](https://www.codechef.com/users/prathip_2826)  
-- 🟢 **GeeksforGeeks:** [prathipro4el](https://auth.geeksforgeeks.org/user/prathipro4el)
+# 🩸 **Coding Profiles — Sorcerer Power Levels**
+
+- 🟧 **LeetCode:**  
+  👉 https://leetcode.com/Prathip_2628  
+
+- 🟥 **CodeChef:**  
+  👉 https://www.codechef.com/users/prathip_2826  
+
+- 🟢 **GeeksforGeeks:**  
+  👉 https://auth.geeksforgeeks.org/user/prathipro4el  
 
 ---
 
-# ⚔️ Skills – Cursed Techniques  
+# 👹 **Cursed Skills — Techniques of the King**
+
 <div align="center">
 
-## 🧩 Languages  
-![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-7B68EE?style=for-the-badge&logo=c%2B%2B)
-![Python](https://img.shields.io/badge/Python-1E90FF?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML5-DC143C?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-483D8B?style=for-the-badge&logo=css3)
+### 🧩 **Languages**
+![Java](https://img.shields.io/badge/Java-8B0000?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-640000?style=for-the-badge&logo=c%2B%2B)
+![Python](https://img.shields.io/badge/Python-500000?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-B22222?style=for-the-badge&logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML5-7A0000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-4B0000?style=for-the-badge&logo=css3)
 
 ---
 
-## 🔥 Tools  
-![GitHub](https://img.shields.io/badge/GitHub-101010?style=for-the-badge&logo=github)
-![VSCode](https://img.shields.io/badge/VS_Code-4169E1?style=for-the-badge&logo=visual-studio-code)
-![MySQL](https://img.shields.io/badge/MySQL-0F52BA?style=for-the-badge&logo=mysql)
-![Git](https://img.shields.io/badge/Git-A52A2A?style=for-the-badge&logo=git)
+### 🩸 **Tools**
+![GitHub](https://img.shields.io/badge/GitHub-1A0000?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-330000?style=for-the-badge&logo=visual-studio-code)
+![MySQL](https://img.shields.io/badge/MySQL-550000?style=for-the-badge&logo=mysql)
+![Git](https://img.shields.io/badge/Git-660000?style=for-the-badge&logo=git)
 
 </div>
 
 ---
 
-# 👁️ Jujutsu GitHub Stats – Limitless Mode  
+# 👁️ **GitHub Stats — Sukuna’s Cursed Aura**
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Prathip2826&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20&title_color=00FFFF" height="165px" />
+<img src="https://github-readme-stats.vercel.app/api?username=Prathip2826&show_icons=true&theme=dracula&icon_color=FF0000&title_color=FF0000&text_color=FF5555&hide_border=true" height="160px">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Prathip2826&theme=tokyonight&hide_border=true&border_radius=20&ring=FF1493&fire=FF1493" height="165px" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Prathip2826&theme=dracula&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&hide_border=true" height="160px">
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathip2826&layout=compact&theme=tokyonight&hide_border=true&border_radius=20" height="165px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathip2826&layout=compact&theme=dracula&title_color=FF0000&text_color=FF5555&hide_border=true" height="160px">
 
 </div>
 
 ---
 
-# 🧩 LeetCode Stats – Reverse Cursed Technique  
+# 🔥 **LeetCode Stats — Reverse Cursed Technique**
 <div align="center">
-<img src="https://leetcard.jacoblin.cool/Prathip_2628?theme=dark&font=Roboto&ext=heatmap" />
+<img src="https://leetcard.jacoblin.cool/Prathip_2628?theme=dark&font=Roboto&ext=heatmap&border=2&border_color=FF0000">
 </div>
 
 ---
 
-# 🟩 GeeksforGeeks Stats – Sorcery Index  
+# 🟩 **GeeksforGeeks — Sorcery Index**
 <div align="center">
-<img src="https://geeks-for-geeks-stats-card.vercel.app/?username=prathipro4el"/>
+<img src="https://geeks-for-geeks-stats-card.vercel.app/?username=prathipro4el&theme=dark&border_color=FF0000"/>
 </div>
 
 ---
 
-# 🏆 Achievements – Grade 1 Sorcerer  
-- ⚡ Solved **500+ DSA problems**  
-- 🧠 Strong **Java + DSA foundation**  
-- 🥋 Active **Competitive Programmer**  
-- 💥 Building real-world projects  
+# 🏆 **Achievements — Grade 1 Sorcerer**
+- ⚡ 500+ DSA Problems Solved  
+- 🔥 Strong Java + DSA Core  
+- 🧠 Active Competitive Programmer  
+- ⚔️ Building Real-World Projects  
 
 ---
 
-# 🚀 Projects – Cursed Tools  
-- ⭐ LeetCode Java Solutions  
-- ⭐ DSA Practice Repo  
-- ⭐ HTML/CSS/JS Mini Projects  
-*(Add repo links soon!)*
-
----
-
-# 🔥 Anime GIF – Gojo Mode Activated  
+# 👹 **Sukuna GIF — King of Curses**
 <div align="center">
-<img src="https://i.imgur.com/T7E7S4R.gif" width="450px" />
+<img src="https://i.imgur.com/DhltVCh.gif" width="450px">
 </div>
 
 ---
 
-# 🌐 Connect With Me  
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/Prathip2826)  
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prathipraja777@gmail.com)
+# 🌐 **Contact the Vessel**
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)](https://github.com/Prathip2826)  
+[![Gmail](https://img.shields.io/badge/Gmail-B30000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prathipraja777@gmail.com)
 
 ---
+
+<div align="center">
 
 # 👁️ Visitor Count  
-<div align="center">
-<img src="https://profile-counter.glitch.me/Prathip2826/count.svg"/>
+<img src="https://profile-counter.glitch.me/Prathip2826/count.svg">
+
 </div>
 
 ---
 
-# ⭐ *“Adapt. Overcome. Evolve. And always level up.”* 🚀🔥  
+<div align="center">
+
+# 🩸 *“Kneel. You stand before the King of Curses.”* 👹  
+</div>
