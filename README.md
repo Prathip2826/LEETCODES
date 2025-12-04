@@ -31,35 +31,15 @@
 ---
 
 ## 🔗 Coding Profiles
-
-### 🟦 CodeChef Stats (Anime Power-Up ⚡)
-<div align="center">
-<img src="https://codechef-readme-stats.vercel.app/api?username=prathip_2826&theme=dark" width="500" />
-<br>
-<img src="https://i.imgur.com/1t7nDgR.gif" width="280" />
-<br>
-<em>“Ranking Up Like a Shonen Hero!”</em>
-</div>
-
-## 🔗 Coding Profiles (Anime Style ✨) (Anime Style ✨)
-<div align="center">
-<img src="https://i.imgur.com/0Hh8w0X.gif" width="300" />
-<br>
-<strong>“Leveling Up Like an Anime Protagonist”</strong>
-</div>
-
-## 🔗 Coding Profiles
 ### 📘 Competitive Programming / DSA
 - 🟧 **LeetCode:** [Prathip_2628](https://leetcode.com/Prathip_2628)
-- 🟦 **CodeChef:** [prathip_2826](https://www.codechef.com/users/prathip_2826)  
-  <div align="center">
-    <img src="https://i.imgur.com/Y5i4qJ4.gif" width="350" />
-    <br>
-    <em>“Cooking Ratings Like a True Anime Warrior 🔥🍜”</em>
-  </div>
+- 🟦 **CodeChef:** [prathip_2826](https://www.codechef.com/users/prathip_2826)
 - 🟢 **GeeksforGeeks:** [prathipro4el](https://auth.geeksforgeeks.org/user/prathipro4el)
 
----
+### 🟦 CodeChef Stats
+<div align="center">
+<img src="https://codechef-readme-stats.vercel.app/api?username=prathip_2826&theme=dark" width="500" />
+</div>
 
 ## 🛡 Skills & Technologies (With Badges)
 
