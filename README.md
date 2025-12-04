@@ -12,20 +12,11 @@
 
 ---
 
-## 🌌 Anime-Themed Aesthetic (Jujutsu Kaisen Inspired)
-<div align="center">
-<img src="https://i.imgur.com/5ZQZQOZ.gif" width="500" />
-<br>
-<strong>“Adapt. Overcome. Exorcise Bugs.”</strong>
-</div>
-
----
-
 ## 🌟 About Me
-- 🎓 Pursuing **B.Tech** in Engineering  
-- 💻 Passionate about **Java, DSA, Web Development, UI/UX**  
-- 🔥 Solved **500+ DSA problems** across platforms  
-- 🌱 Currently learning **Advanced Java + System Design Basics**  
+- 🎓 Pursuing **B.Tech** in Engineering
+- 💻 Passionate about **Java, DSA, Web Development, UI/UX**
+- 🔥 Solved 500+ DSA problems across platforms
+- 🌱 Currently learning **Advanced Java + System Design Basics**
 - 🎯 Goal: Become a **Software Engineer at a top tech company**
 
 ---
@@ -36,13 +27,9 @@
 - 🟦 **CodeChef:** [prathip_2826](https://www.codechef.com/users/prathip_2826)
 - 🟢 **GeeksforGeeks:** [prathipro4el](https://auth.geeksforgeeks.org/user/prathipro4el)
 
-### 🟦 CodeChef Stats
-<div align="center">
-<img src="https://codechef-readme-stats.vercel.app/api?username=prathip_2826&theme=dark" width="500" />
-</div>
+---
 
 ## 🛡 Skills & Technologies (With Badges)
-
 ### 💻 Languages
 ![Java](https://img.shields.io/badge/Java-orange?logo=java)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B)
@@ -61,10 +48,12 @@
 
 ## 📊 GitHub Stats
 <div align="center">
+
 <img src="https://github-readme-stats.vercel.app/api?username=Prathip2826&show_icons=true&theme=tokyonight" height="160px" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prathip2826&theme=tokyonight" height="160px" />
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathip2826&layout=compact&theme=tokyonight" height="160px" />
+
 </div>
 
 ---
@@ -75,30 +64,36 @@
 </div>
 
 ---
-
 ## 🟩 GeeksforGeeks Stats
 <div align="center">
+  
 <a href="https://www.geeksforgeeks.org/user/prathipro4el/">
 <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=prathipro4el" />
 </a>
+
 </div>
 
 ---
 
-## 💠 Anime-Styled Code Chef Badge
+🟧 CodeChef Stats
 <div align="center">
-<img src="https://i.imgur.com/xcE8q2D.jpeg" width="350" />
+🌟 My CodeChef Profile
+
+🔗 prathip_2826
+
 <br>
-<em>“Rank Up Like a Jujutsu Sorcerer”</em>
-</div>
+📊 CodeChef Rating Card
+<img src="https://cp-logo.vercel.app/codechef/prathip_2826" width="350" /> <br>
+🏅 CodeChef Stats Card
+<img src="https://codechef-stats.vercel.app/api?username=prathip_2826&theme=dark" /> </div>
 
 ---
 
 ## 🏆 Badges & Achievements
-- ✔️ Solved **300+ LeetCode** problems  
-- ✔️ Consistent competitive programmer  
-- ✔️ Strong **Java & DSA foundations**  
-- ✔️ Git & GitHub version control proficient 
+- ✔️ Solved 300+ LeetCode problems
+- ✔️ Consistent competitive programmer
+- ✔️ Strong Java & DSA foundations
+- ✔️ Git & GitHub version control proficient
 
 ---
 
@@ -106,7 +101,9 @@
 ### 🔥 Highlighted Repositories
 - ⭐ **LeetCode Java Solutions** — All solved problems in clean Java
 - ⭐ **DSA Practice Repo** — Notes + Problems + Solutions
-- ⭐ **Mini Web Projects** — HTML/CSS/JS creative projects
+- ⭐ **Mini Web Projects** — HTML/CSS/JS based creative projects
+
+*(Add your repo links once uploaded!)*
 
 ---
 
