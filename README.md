@@ -13,10 +13,10 @@
 ---
 
 ## 🌟 About Me
-- 🎓 Pursuing **B.Tech** in Engineering
-- 💻 Passionate about **Java, DSA, Web Development, UI/UX**
-- 🔥 Solved 500+ DSA problems across platforms
-- 🌱 Currently learning **Advanced Java + System Design Basics**
+- 🎓 Pursuing **B.Tech** in Engineering  
+- 💻 Passionate about **Java, DSA, Web Development, UI/UX**  
+- 🔥 Solved 500+ DSA problems across platforms  
+- 🌱 Currently learning **Advanced Java + System Design Basics**  
 - 🎯 Goal: Become a **Software Engineer at a top tech company**
 
 ---
@@ -64,6 +64,7 @@
 </div>
 
 ---
+
 ## 🟩 GeeksforGeeks Stats
 <div align="center">
   
@@ -75,33 +76,39 @@
 
 ---
 
-🟧 CodeChef Stats
+## 🟧 CodeChef Stats
 <div align="center">
-🌟 My CodeChef Profile
 
-🔗 prathip_2826
+### 🌟 My CodeChef Profile
+🔗 **[prathip_2826](https://www.codechef.com/users/prathip_2826)**
 
 <br>
-📊 CodeChef Rating Card
-<img src="https://cp-logo.vercel.app/codechef/prathip_2826" width="350" /> <br>
-🏅 CodeChef Stats Card
-<img src="https://codechef-stats.vercel.app/api?username=prathip_2826&theme=dark" /> </div>
+
+### 📊 CodeChef Rating Card
+<img src="https://cp-logo.vercel.app/codechef/prathip_2826" width="350" />
+
+<br>
+
+### 🏅 CodeChef Stats Card
+<img src="https://codechef-stats.vercel.app/api?username=prathip_2826&theme=dark" />
+
+</div>
 
 ---
 
 ## 🏆 Badges & Achievements
-- ✔️ Solved 300+ LeetCode problems
-- ✔️ Consistent competitive programmer
-- ✔️ Strong Java & DSA foundations
-- ✔️ Git & GitHub version control proficient
+- ✔️ Solved 300+ LeetCode problems  
+- ✔️ Consistent competitive programmer  
+- ✔️ Strong Java & DSA foundations  
+- ✔️ Git & GitHub version control proficient  
 
 ---
 
 ## 📂 Top Projects
 ### 🔥 Highlighted Repositories
-- ⭐ **LeetCode Java Solutions** — All solved problems in clean Java
-- ⭐ **DSA Practice Repo** — Notes + Problems + Solutions
-- ⭐ **Mini Web Projects** — HTML/CSS/JS based creative projects
+- ⭐ **LeetCode Java Solutions** — All solved problems in clean Java  
+- ⭐ **DSA Practice Repo** — Notes + Problems + Solutions  
+- ⭐ **Mini Web Projects** — HTML/CSS/JS based creative projects  
 
 *(Add your repo links once uploaded!)*
 
@@ -115,7 +122,7 @@
 ---
 
 ## 🌐 Social Media Badges
-[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github)](https://github.com/Prathip2826)
+[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github)](https://github.com/Prathip2826)  
 [![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prathipraja777@gmail.com)
 
 ---
