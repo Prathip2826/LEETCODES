@@ -1,128 +1,153 @@
-<!-- 🩸 SUKUNA – THE KING OF CURSES THEME  -->
-
-<div align="center">
-
-# 👹 **RYOMEN SUKUNA — THE KING OF CURSES**
-### *“Know your place, fool.”*
-
-<img src="https://i.imgur.com/DhltVCh.gif" width="500">
+# 👋 Hi, I'm **Prathip M**!
+### 🚀 Aspiring Software Engineer | Competitive Programmer | B.Tech Student at **Muthayammal Engineering College**
 
 ---
 
-## 🔥 **Cursed Introduction**
-<img src="https://readme-typing-svg.herokuapp.com?size=28&color=FF0000&center=true&vCenter=true&width=700&lines=I'm+Prathip+M;Aspiring+Software+Engineer;Competitive+Programmer;Java+%7C+DSA+Enthusiast;Bow+Before+The+King+of+Curses!">
+<div align="center">
+
+## ⌨️ Animated Introduction
+<img src="https://readme-typing-svg.herokuapp.com?size=24&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Prathip+M;B.Tech+Student;Aspiring+Software+Engineer;Competitive+Programmer;Java+%7C+DSA+Enthusiast;Welcome+to+my+GitHub+Profile!" />
 
 </div>
 
 ---
 
-# 🩸 **About Me**
-- 🎓 B.Tech Student — Muthayammal Engineering College  
-- 👹 Cursed Techniques: Java, DSA, Web Dev  
-- 🧠 500+ DSA Problems Crushed  
-- ⚔️ Training in Advanced Java + System Design  
-- 🎯 Goal: Become a top-tier Software Engineer  
-- 🔥 Anime Lover — especially Jujutsu Kaisen  
-
----
-
-# 🩸 **Coding Profiles — Sorcerer Power Levels**
-
-- 🟧 **LeetCode:**  
-  👉 https://leetcode.com/Prathip_2628  
-
-- 🟥 **CodeChef:**  
-  👉 https://www.codechef.com/users/prathip_2826  
-
-- 🟢 **GeeksforGeeks:**  
-  👉 https://auth.geeksforgeeks.org/user/prathipro4el  
-
----
-
-# 👹 **Cursed Skills — Techniques of the King**
-
+## 🌌 Anime-Themed Aesthetic (Jujutsu Kaisen Inspired)
 <div align="center">
-
-### 🧩 **Languages**
-![Java](https://img.shields.io/badge/Java-8B0000?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-640000?style=for-the-badge&logo=c%2B%2B)
-![Python](https://img.shields.io/badge/Python-500000?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-B22222?style=for-the-badge&logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML5-7A0000?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-4B0000?style=for-the-badge&logo=css3)
-
----
-
-### 🩸 **Tools**
-![GitHub](https://img.shields.io/badge/GitHub-1A0000?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-330000?style=for-the-badge&logo=visual-studio-code)
-![MySQL](https://img.shields.io/badge/MySQL-550000?style=for-the-badge&logo=mysql)
-![Git](https://img.shields.io/badge/Git-660000?style=for-the-badge&logo=git)
-
-</div>
-
----
-
-# 👁️ **GitHub Stats — Sukuna’s Cursed Aura**
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Prathip2826&show_icons=true&theme=dracula&icon_color=FF0000&title_color=FF0000&text_color=FF5555&hide_border=true" height="160px">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Prathip2826&theme=dracula&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&hide_border=true" height="160px">
-
+<img src="https://i.imgur.com/5ZQZQOZ.gif" width="500" />
 <br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathip2826&layout=compact&theme=dracula&title_color=FF0000&text_color=FF5555&hide_border=true" height="160px">
-
+<strong>“Adapt. Overcome. Exorcise Bugs.”</strong>
 </div>
 
 ---
 
-# 🔥 **LeetCode Stats — Reverse Cursed Technique**
+## 🌟 About Me
+- 🎓 Pursuing **B.Tech** in Engineering  
+- 💻 Passionate about **Java, DSA, Web Development, UI/UX**  
+- 🔥 Solved **500+ DSA problems** across platforms  
+- 🌱 Currently learning **Advanced Java + System Design Basics**  
+- 🎯 Goal: Become a **Software Engineer at a top tech company**
+
+---
+
+## 🔗 Coding Profiles
+
+### 🟦 CodeChef Stats (Anime Power-Up ⚡)
 <div align="center">
-<img src="https://leetcard.jacoblin.cool/Prathip_2628?theme=dark&font=Roboto&ext=heatmap&border=2&border_color=FF0000">
+<img src="https://codechef-readme-stats.vercel.app/api?username=prathip_2826&theme=dark" width="500" />
+<br>
+<img src="https://i.imgur.com/1t7nDgR.gif" width="280" />
+<br>
+<em>“Ranking Up Like a Shonen Hero!”</em>
 </div>
 
----
-
-# 🟩 **GeeksforGeeks — Sorcery Index**
+## 🔗 Coding Profiles (Anime Style ✨) (Anime Style ✨)
 <div align="center">
-<img src="https://geeks-for-geeks-stats-card.vercel.app/?username=prathipro4el&theme=dark&border_color=FF0000"/>
+<img src="https://i.imgur.com/0Hh8w0X.gif" width="300" />
+<br>
+<strong>“Leveling Up Like an Anime Protagonist”</strong>
 </div>
 
+## 🔗 Coding Profiles
+### 📘 Competitive Programming / DSA
+- 🟧 **LeetCode:** [Prathip_2628](https://leetcode.com/Prathip_2628)
+- 🟦 **CodeChef:** [prathip_2826](https://www.codechef.com/users/prathip_2826)  
+  <div align="center">
+    <img src="https://i.imgur.com/Y5i4qJ4.gif" width="350" />
+    <br>
+    <em>“Cooking Ratings Like a True Anime Warrior 🔥🍜”</em>
+  </div>
+- 🟢 **GeeksforGeeks:** [prathipro4el](https://auth.geeksforgeeks.org/user/prathipro4el)
+
 ---
 
-# 🏆 **Achievements — Grade 1 Sorcerer**
-- ⚡ 500+ DSA Problems Solved  
-- 🔥 Strong Java + DSA Core  
-- 🧠 Active Competitive Programmer  
-- ⚔️ Building Real-World Projects  
+## 🛡 Skills & Technologies (With Badges)
+
+### 💻 Languages
+![Java](https://img.shields.io/badge/Java-orange?logo=java)
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript)
+
+### 🧰 Tools
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?logo=visual-studio-code)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-121013?logo=github)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql)
 
 ---
 
-# 👹 **Sukuna GIF — King of Curses**
+## 📊 GitHub Stats
 <div align="center">
-<img src="https://i.imgur.com/DhltVCh.gif" width="450px">
+<img src="https://github-readme-stats.vercel.app/api?username=Prathip2826&show_icons=true&theme=tokyonight" height="160px" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Prathip2826&theme=tokyonight" height="160px" />
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathip2826&layout=compact&theme=tokyonight" height="160px" />
 </div>
 
 ---
 
-# 🌐 **Contact the Vessel**
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)](https://github.com/Prathip2826)  
-[![Gmail](https://img.shields.io/badge/Gmail-B30000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prathipraja777@gmail.com)
-
----
-
+## 🧩 LeetCode Stats (Dynamic)
 <div align="center">
-
-# 👁️ Visitor Count  
-<img src="https://profile-counter.glitch.me/Prathip2826/count.svg">
-
+<img src="https://leetcard.jacoblin.cool/Prathip_2628?theme=dark&font=Roboto&ext=heatmap" />
 </div>
 
 ---
 
+## 🟩 GeeksforGeeks Stats
 <div align="center">
-
-# 🩸 *“Kneel. You stand before the King of Curses.”* 👹  
+<a href="https://www.geeksforgeeks.org/user/prathipro4el/">
+<img src="https://geeks-for-geeks-stats-card.vercel.app/?username=prathipro4el" />
+</a>
 </div>
+
+---
+
+## 💠 Anime-Styled Code Chef Badge
+<div align="center">
+<img src="https://i.imgur.com/xcE8q2D.jpeg" width="350" />
+<br>
+<em>“Rank Up Like a Jujutsu Sorcerer”</em>
+</div>
+
+---
+
+## 🏆 Badges & Achievements
+- ✔️ Solved **300+ LeetCode** problems  
+- ✔️ Consistent competitive programmer  
+- ✔️ Strong **Java & DSA foundations**  
+- ✔️ Git & GitHub version control proficient 
+
+---
+
+## 📂 Top Projects
+### 🔥 Highlighted Repositories
+- ⭐ **LeetCode Java Solutions** — All solved problems in clean Java
+- ⭐ **DSA Practice Repo** — Notes + Problems + Solutions
+- ⭐ **Mini Web Projects** — HTML/CSS/JS creative projects
+
+---
+
+## 🎨 Developer GIF
+<div align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px" />
+</div>
+
+---
+
+## 🌐 Social Media Badges
+[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github)](https://github.com/Prathip2826)
+[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prathipraja777@gmail.com)
+
+---
+
+## 👁️ Visitor Count
+<div align="center">
+<img src="https://profile-counter.glitch.me/Prathip2826/count.svg" />
+</div>
+
+---
+
+⭐ *Thanks for visiting! Feel free to star ⭐ my repositories and connect with me!*
