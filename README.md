@@ -1,137 +1,84 @@
-# 👋 Hi, I'm **Prathip M**!
-### 🚀 Aspiring Software Engineer | Competitive Programmer | B.Tech Student at **Muthayammal Engineering College**
+# 👋 Prathip M
+**Aspiring Software Engineer | Competitive Programmer | Java & DSA Enthusiast**
+
+📍 India | 🎓 B.Tech – Muthayammal Engineering College  
+📧 prathipraja777@gmail.com | 🔗 GitHub: Prathip2826  
 
 ---
 
-<div align="center">
-
-## ⌨️ Animated Introduction
-<img src="https://readme-typing-svg.herokuapp.com?size=24&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Prathip+M;B.Tech+Student;Aspiring+Software+Engineer;Competitive+Programmer;Java+%7C+DSA+Enthusiast;Welcome+to+my+GitHub+Profile!" />
-
-</div>
+## 🚀 Professional Summary
+Highly motivated **B.Tech engineering student** with strong foundations in **Java, Data Structures & Algorithms, and Competitive Programming**. Solved **500+ algorithmic problems** across platforms like LeetCode, CodeChef, and GeeksforGeeks. Passionate about building efficient solutions and continuously improving problem-solving skills. Seeking **Software Engineer / Internship opportunities**.
 
 ---
 
-## 🌟 About Me
-- 🎓 Pursuing **B.Tech** in Engineering  
-- 💻 Passionate about **Java, DSA, Web Development, UI/UX**  
-- 🔥 Solved 500+ DSA problems across platforms  
-- 🌱 Currently learning **Advanced Java + System Design Basics**  
-- 🎯 Goal: Become a **Software Engineer at a top tech company**
+## 🧠 Core Skills
+- **Programming Languages:** Java, C++, Python  
+- **Web Technologies:** HTML, CSS, JavaScript  
+- **Core CS:** Data Structures, Algorithms, OOPs  
+- **Tools:** Git, GitHub, VS Code, MySQL  
+- **Soft Skills:** Problem Solving, Consistency, Logical Thinking  
 
 ---
 
-## 🔗 Coding Profiles
-### 📘 Competitive Programming / DSA
-- 🟧 **LeetCode:** [Prathip_2628](https://leetcode.com/Prathip_2628)
-- 🟦 **CodeChef:** [prathip_2826](https://www.codechef.com/users/prathip_2826)
-- 🟢 **GeeksforGeeks:** [prathipro4el](https://auth.geeksforgeeks.org/user/prathipro4el)
+## 🏆 Competitive Programming Profiles
+- **LeetCode:** https://leetcode.com/Prathip_2628  
+- **CodeChef:** https://www.codechef.com/users/prathip_2826  
+- **GeeksforGeeks:** https://auth.geeksforgeeks.org/user/prathipro4el  
 
 ---
 
-## 🛡 Skills & Technologies (With Badges)
-### 💻 Languages
-![Java](https://img.shields.io/badge/Java-orange?logo=java)
-![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript)
-
-### 🧰 Tools
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?logo=visual-studio-code)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-121013?logo=github)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql)
+## 📊 Coding Statistics
+- ✔️ **500+ DSA problems solved**
+- ✔️ **300+ problems on LeetCode**
+- ✔️ Regular participation in contests
+- ✔️ Strong Java & algorithmic foundations
 
 ---
 
-## 📊 GitHub Stats
-<div align="center">
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Prathip2826&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prathip2826&theme=tokyonight" height="160"/>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Prathip2826&show_icons=true&theme=tokyonight" height="160px" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Prathip2826&theme=tokyonight" height="160px" />
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathip2826&layout=compact&theme=tokyonight" height="160px" />
-
-</div>
-
----
-
-## 🧩 LeetCode Stats (Dynamic)
-<div align="center">
-<img src="https://leetcard.jacoblin.cool/Prathip_2628?theme=dark&font=Roboto&ext=heatmap" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathip2826&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
 
-## 🟩 GeeksforGeeks Stats
-<div align="center">
-  
-<a href="https://www.geeksforgeeks.org/user/prathipro4el/">
-<img src="https://geeks-for-geeks-stats-card.vercel.app/?username=prathipro4el" />
-</a>
-
-</div>
+## 🧩 LeetCode Performance
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Prathip_2628?theme=dark&ext=heatmap"/>
+</p>
 
 ---
 
-## 🟧 CodeChef Stats
-<div align="center">
-
-### 🌟 My CodeChef Profile
-🔗 **[prathip_2826](https://www.codechef.com/users/prathip_2826)**
-
-<br>
-
-### 📊 CodeChef Rating Card
-<img src="https://cp-logo.vercel.app/codechef/prathip_2826" width="350" />
-
-<br>
-
-### 🏅 CodeChef Stats Card
-<img src="https://codechef-stats.vercel.app/api?username=prathip_2826&theme=dark" />
-
-</div>
+## 🟩 GeeksforGeeks Profile
+<p align="center">
+  <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=prathipro4el"/>
+</p>
 
 ---
 
-## 🏆 Badges & Achievements
-- ✔️ Solved 300+ LeetCode problems  
-- ✔️ Consistent competitive programmer  
-- ✔️ Strong Java & DSA foundations  
-- ✔️ Git & GitHub version control proficient  
+## 📂 Projects
+- **LeetCode Java Solutions** – Optimized Java solutions with clean code  
+- **DSA Practice Repository** – Structured problem solving & notes  
+- **Mini Web Projects** – HTML, CSS & JavaScript based projects  
+
+*(Pinned repositories coming soon)*
 
 ---
 
-## 📂 Top Projects
-### 🔥 Highlighted Repositories
-- ⭐ **LeetCode Java Solutions** — All solved problems in clean Java  
-- ⭐ **DSA Practice Repo** — Notes + Problems + Solutions  
-- ⭐ **Mini Web Projects** — HTML/CSS/JS based creative projects  
-
-*(Add your repo links once uploaded!)*
+## 🎯 Career Objective
+To secure a **Software Engineer / Internship role** where I can apply my **problem-solving skills, Java expertise, and strong DSA knowledge** while learning from real-world engineering challenges.
 
 ---
 
-## 🎨 Developer GIF
-<div align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px" />
-</div>
+## 🌐 Connect With Me
+- GitHub: https://github.com/Prathip2826  
+- Email: prathipraja777@gmail.com  
 
 ---
 
-## 🌐 Social Media Badges
-[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github)](https://github.com/Prathip2826)  
-[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prathipraja777@gmail.com)
-
----
-
-## 👁️ Visitor Count
-<div align="center">
-<img src="https://profile-counter.glitch.me/Prathip2826/count.svg" />
-</div>
-
----
-
-⭐ *Thanks for visiting! Feel free to star ⭐ my repositories and connect with me!*
+⭐ *Consistent learner | Problem solver | Ready for opportunities*
